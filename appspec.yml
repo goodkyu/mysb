@@ -2,8 +2,8 @@ version: 0.0
 os: linux
 
 files:
-  -source: springbootApp.jar
-   destination: /root
+  - source: springbootApp.jar
+    destination: /root
 #  - source: /index.jsp
 #    destination: /home/ec2-user/tomcat/webapps/
 #  - source: /dbtest.jsp
